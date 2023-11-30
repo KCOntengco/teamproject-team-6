@@ -62,6 +62,19 @@ a {
     gap: 40px;
     text-transform: uppercase;
 }
+
+.nav-list-item {
+    color: #FFF;
+    text-align: center;
+    font-family: Epilogue;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    /* 133.333% */
+    text-transform: uppercase;
+}
+
 .btn-tel {
     height: 48px;
     width: 159px;
@@ -75,6 +88,17 @@ a {
     border-style: none;
     border-radius: 8px;
 }
+
+.logo-name {
+    color: #FFF;
+    font-family: Epilogue;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.45px;
+}
+
 /* end of navigation style */
 .hero-container {
     display: flex;
