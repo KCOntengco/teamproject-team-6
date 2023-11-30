@@ -184,7 +184,7 @@ a {
 
 .new-watches-images {
     display: inline-flex;
-    gap: 8px;
+    gap: 24px;
 }
 
 .new-watches-images > img {
