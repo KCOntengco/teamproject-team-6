@@ -139,3 +139,23 @@ a {
     background-color: var(--dark-green);
     justify-content: center;
 }
+
+/* about section */
+.about-section {
+    display: flex;
+    padding: 80px 132px;
+    column-gap: 110px;
+}
+
+
+.about-container {
+    display: inline-flex;
+    gap: 40px;
+}
+
+.
+/* end of about section */
+
+/* catalog section */
+/* end of catalog section */
+
