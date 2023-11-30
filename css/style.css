@@ -147,15 +147,49 @@ a {
     column-gap: 110px;
 }
 
-
 .about-container {
     display: inline-flex;
     gap: 40px;
 }
-
-.
 /* end of about section */
 
 /* catalog section */
 /* end of catalog section */
 
+
+/* new watches section */
+.new-watches {
+    padding: 80px 132px;
+}
+
+.new-watches-text > p {
+    color: rgba(20, 20, 20, 0.40);
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 14px;
+    /* 116.667% */
+    letter-spacing: 0.72px;
+}
+
+.new-watches-text > h2 {
+    color: var(--dark-green, #1E2827);
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 44px;
+    /* 110% */
+    letter-spacing: -0.8px;
+}
+
+.new-watches-images {
+    display: inline-flex;
+    gap: 8px;
+}
+
+.new-watches-images > img {
+    width: 576px;
+    height: 422px;
+    
+}
+/* end of watches section */
