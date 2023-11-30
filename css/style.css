@@ -102,8 +102,11 @@ a {
 /* end of navigation style */
 .hero-container {
     display: flex;
-    margin: 0 132px 0 132px ;
+    justify-content: center;
     flex-wrap: wrap;
+    margin: 0 132px 0 132px;
+    padding: 20px 132px 80px 132px;
+
 }
 .hero-disc {
     display: flex;
